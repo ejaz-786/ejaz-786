@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ejaz-786
-- 👀 I’m interested in ...front-end Developer
-- 🌱 I’m currently learning ...React js
-- 💞️ I’m looking to collaborate on ...projects of React js
+- 👀 I am Java Fullstack (Java Spring + Node.js + React.js + Next.js + Angular.js ) Engineer. 
+- 💞️ I’m looking to collaborate on FullStack Scalable Projects.
 - 📫 How to reach me ...kingejaz143@gmail.com
 
 <!---
@@ -13,10 +12,8 @@ You can click the Preview link to take a look at your changes.
 ### HI.., I'm MD EJAZ ALAM <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="waving gif" width="25" height="25" />
 <hr style="height:1px;border-width:0;color:gray;background-color:gray">
 
- My name is MD EJAZ ALAM and I am a web developer with solid skills in React. <br>
- I 🎓 have  completed my Bachelor of Technology in the field of computer science from Technocrats Institue of Technology, Bhopal(M.P).
-
-- 🔥 I'm currently working as React Developer at CEDCOOS Technologies PVT.LTD.
+ My name is MD EJAZ ALAM and I am a web developer with solid skills in Java Spring , Node.js , Python. React+Next.js , Angular.js  <br>
+ I 🎓 have  completed my Bachelor of Technology in the field of computer science from Technocrats Institue of Technology, Bhopal(M.
 - ⚡ Fun fact: I ❤️ to explore different technology fields.
 
 
